@@ -14,8 +14,8 @@ int main()
 	//Ma foi tout ce quil y a de plus classique, on peut vérifier ça facilement
 	std::cout << "La variable 'a' vaut " << a << "." << std::endl;
 
-	/*Maintenant, on va commencer à parler de vecteurs
-	Il y a deux types de vecteurs
+	/*Maintenant, on va commencer à parler de pointeurs
+	Il y a deux types de pointeurs
 	On va commencer avec les pointeurs sur varaibles (d'où la variable 'a", pas bête hein ?)*/
 	int* pointer_on_a = &a;
 	/*Voilà, rien de plus simple
